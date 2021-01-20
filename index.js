@@ -1,3 +1,4 @@
+// the different packages required to read, write, and create the text file
 const fs = require('fs');
 const inquirer = require('inquirer');
 const path = require('path');

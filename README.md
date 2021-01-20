@@ -16,6 +16,8 @@ I began by setting up the required packages for installation. Inquirer is a pack
 
 After the questions are completed, there is a function to create the text file, and a separate function to populate the file with the user inputted information. 
 
+Finally, there is a call to a separate JS file which contains the layout for the completed file. Back tick notation as well as standard markdown language is used to format the lyaout of the text file (in this case, a README), and template literals are used to populate the sections. 
+
 Overall, this assignment was exactly the type of break my brain needed, something useful but simple and achievable. 
 
 Now, I'm ready to tackle constructor functions and object oriented programming head-on. 
